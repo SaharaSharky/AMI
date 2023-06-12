@@ -1,0 +1,8 @@
+This is the main folder of implementing AMI (Advanced Metering Infrastructure) system, which includes
+  - GUI
+  - DataServer
+  - Collector
+  - Gateway
+  - Network
+  - Meter
+
